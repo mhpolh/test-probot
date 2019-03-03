@@ -1,2 +1,2 @@
-# test-probot
-test pro bot
+# OriginBot
+Discord bot for Origin Realms
